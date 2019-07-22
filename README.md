@@ -1,5 +1,3 @@
-# crud-docket
-CRUD feito para um teste de estágio
 
 # O que foi feito/O que aprendi
 Aplicação Web simples, feita utilizando JSP, Spring MVC e JPA/Hibernate.
